@@ -1,0 +1,9 @@
+fr:
+  spree:
+    contact_us:
+      contacts:
+        new:
+          contact_us: "Nous contacter"
+          submit: "Envoyer"
+      notices:
+        success: "Votre message a été envoyé avec succès"
